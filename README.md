@@ -9,4 +9,4 @@ direct-link.net
 
 Try Demo: https://checkz.co/linkvertise-bypasser
 
-If you encounter a bug, I would very much appreciate that you send me an email (https://checkz.co/) that explains the nature of your bug. Please include details like which browser version you're using and the steps to reproduce the bug. Other comments are welcome.
+If you encounter a bug, I would very much appreciate that you can contact me (https://checkz.co/) that explains the nature of your bug. Please include details like which browser version you're using and the steps to reproduce the bug. Other comments are welcome.
